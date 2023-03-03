@@ -1,4 +1,4 @@
-import { CommandError } from "@h-platform/cqm";
+import { CommandError } from "@usmanrehmat/core";
 
 export enum TaskType {
     UserTask = 'UserTask',

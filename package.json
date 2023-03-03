@@ -1,6 +1,6 @@
 {
-  "name": "@h-platform/bpm",
-  "version": "0.0.9",
+  "name": "@usmanrehmat/bpm",
+  "version": "0.0.10",
   "description": "light business process state management",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -8,10 +8,10 @@
     "build": "tsc"
   },
   "keywords": [],
-  "author": "Yasir Hantoush",
+  "author": "Dinar credit by Yasir Hantoush",
   "license": "MIT",
   "dependencies": {
-    "@h-platform/cqm": "^0.0.8"
+    "@usmanrehmat/core": "^0.1.4"
   },
   "devDependencies": {
     "typescript": "^4.3.4"
@@ -22,6 +22,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/h-platform/bpm.git"
+    "url": "git+https://github.com/UsmanRehmat/bpm.git"
   }
 }
